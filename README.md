@@ -39,16 +39,7 @@ Laravel 8.75
 ![スクリーンショット 2024-08-09 16 22 05](https://github.com/user-attachments/assets/7a392199-06a0-4d8c-b569-13d2e57fee94)
 
 ## ER図
-
-
-
-
-
-
-
-
-
-
+<img width="1680" alt="スクリーンショット 2024-08-09 17 14 25（2）" src="https://github.com/user-attachments/assets/66f4d8a8-fca3-4a9c-b0c8-eb6e981550d9">
 
 ### 管理者ユーザーアカウント
 メールアドレス：admin@example.com<br>
