@@ -36,6 +36,9 @@ http//localhost/
 Laravel 8.75
 
 ## テーブル設計
+![スクリーンショット 2024-08-09 16 22 05](https://github.com/user-attachments/assets/7a392199-06a0-4d8c-b569-13d2e57fee94)
+
+## ER図
 
 
 
