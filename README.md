@@ -35,6 +35,9 @@ http//localhost/
 ## 使用技術(実行環境)
 Laravel 8.75
 
+## テーブル設計
+
+
 
 
 
